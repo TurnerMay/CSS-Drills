@@ -1,0 +1,28 @@
+body {font-family: 'Luxurious Roman'; 
+      background-color: rgba(128, 128, 128, 0.651);
+}
+
+h2, p, .readme-wrapper {text-align: center;}
+
+.Remove-underline {text-decoration: none; 
+                   color: darkred;}
+
+a:hover {background-color: rgb(45, 221, 139); 
+         font-weight: 900;}
+
+Span {color: red; 
+      font-weight: 900;}
+
+.Boxes {border: 1px solid peru;
+        margin: 1em; 
+        border-radius: 30em; 
+        padding: 5em; 
+        width: 30em;}
+
+#Box1 {background-color: seashell;}
+
+#Box2 {background-color: skyblue;}
+
+#Box3 {background-color: yellowgreen;}
+
+#Box4 {background-color: orange;}
