@@ -1,28 +1,91 @@
-body {font-family: 'Luxurious Roman'; 
-      background-color: rgba(128, 128, 128, 0.651);
+body {
+  font-family: "Luxurious Roman";
+  background-color: rgba(128, 128, 128, 0.651);
 }
 
-h2, p, .readme-wrapper {text-align: center;}
+h2,
+p,
+.readme-wrapper {
+  text-align: center;
+}
 
-.Remove-underline {text-decoration: none; 
-                   color: darkred;}
+.Remove-underline {
+  text-decoration: none;
+  color: darkred;
+}
 
-a:hover {background-color: rgb(45, 221, 139); 
-         font-weight: 900;}
+a:hover {
+  background-color: rgb(45, 221, 139);
+  font-weight: 900;
+}
 
-Span {color: red; 
-      font-weight: 900;}
+Span {
+  color: red;
+  font-weight: 900;
+}
 
-.Boxes {border: 1px solid peru;
-        margin: 1em; 
-        border-radius: 30em; 
-        padding: 5em; 
-        width: 30em;}
+.Boxes {
+  border: 1px solid peru;
+  margin: 1em;
+  border-radius: 30em;
+  padding: 5em;
+  width: 30em;
+  display: block;
+}
 
-#Box1 {background-color: seashell;}
+#Box1 {
+  background-color: seashell;
+}
 
-#Box2 {background-color: skyblue;}
+#Box2 {
+  background-color: skyblue;
+}
 
-#Box3 {background-color: yellowgreen;}
+#Box3 {
+  background-color: yellowgreen;
+}
 
-#Box4 {background-color: orange;}
+#Box4 {
+  background-color: orange;
+}
+
+.Div-image {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: indianred;
+  position: relative;
+  left: 7em;
+  top: 3em;
+}
+
+h1 {
+  color: maroon;
+}
+
+.Original {
+  color: turquoise;
+}
+
+.Additional {
+  color: violet;
+}
+
+#show1 {color: yellow;}
+
+#show2 {color: tomato;}
+
+#show3 {color: thistle;}
+
+#show4 {color: violet;}
+
+#show5 {color: royalblue;}
+
+ul {color: mediumblue;}
+
+.Star {color: orangered;}
+
+#Wars {color: green;}
+
+.Div-border {border: black 2px solid;}
+
